@@ -1,5 +1,4 @@
-# routing_editor
-Railcraft Routing Table Validator
+# Railcraft Routing Table Validator
 
 A utility program for the Minecraft mod Railcraft by CovertJaguar.
 
