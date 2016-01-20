@@ -8,4 +8,4 @@ This repository is used for issue-tracking and release distribution only.
 
 Latest release: https://github.com/Forecaster/routing_editor/releases/tag/1.0
 
-Here's a 10m video showing the features of the application: https://www.youtu.be/67-x-QbfvHg
+Here's a 10 minute video showing the features of the application: https://www.youtu.be/67-x-QbfvHg
