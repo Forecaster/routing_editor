@@ -7,3 +7,5 @@ It helps you validate routing tables by parsing them and displaying the elements
 This repository is used for issue-tracking and release distribution only.
 
 Latest release: https://github.com/Forecaster/routing_editor/releases/tag/1.0
+
+Here's a 10m video showing the features of the application: https://www.youtu.be/67-x-QbfvHg
